@@ -1,0 +1,6 @@
+{
+  "name": "Tax, ITR, and Financial Services Platform",
+  "description": "A comprehensive financial platform offering ITR filing, GST software, expert assistance, and enterprise solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
